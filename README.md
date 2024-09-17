@@ -51,7 +51,7 @@ npm run dev
 
 ```
 **A Glance at the Website**
-(img1.png)
+![Screenshot of Dad Jokes Extension](img1.png)  
 img2.png
 img3.png
 img4.png
