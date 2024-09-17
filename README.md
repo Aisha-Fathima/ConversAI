@@ -22,9 +22,9 @@ Ensures seamless functionality and aesthetics across all devices.
 ## Note: This project is a demonstration of design and does not include functional features beyond the visual presentation.
 
 # 🛠 Technologies Used
-Vite: For fast and optimized build processes.
-React.js: For creating dynamic and interactive user interfaces.
-Tailwind CSS: For modern and customizable styling.
+-Vite: For fast and optimized build processes.
+-React.js: For creating dynamic and interactive user interfaces.
+-Tailwind CSS: For modern and customizable styling.
 
 
 ## 📋 Getting Started
