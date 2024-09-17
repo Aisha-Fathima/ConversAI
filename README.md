@@ -6,7 +6,7 @@ ConversAI is a showcase of modern UI/UX design principles, developed using React
 # A Glance at the Website
 
 
-![Screenshot 2](webiste/img2.png)  
+![Screenshot 2](webiste_images/img2.png)  
 
 ![Screenshot 3](img3.png)  
 
