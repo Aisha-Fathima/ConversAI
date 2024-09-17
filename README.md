@@ -46,12 +46,12 @@ npm install
 ```bash
 npm run dev
 ```
-
+```
  Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-
-** A Glance at the Website **
-img1.png
+```
+**A Glance at the Website**
+(img1.png)
 img2.png
 img3.png
 img4.png
