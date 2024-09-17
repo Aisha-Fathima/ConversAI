@@ -76,9 +76,6 @@ npm run dev
 
 ![Screenshot 9](img9.png)  
 
-![Screenshot 10](img10.png)  
-
-![Screenshot 10](img11.png) 
 
 
 
