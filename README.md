@@ -51,16 +51,16 @@ npm run dev
 
 ```
 **A Glance at the Website**
-![Screenshot of Dad Jokes Extension](img1.png)  
-img2.png
-img3.png
-img4.png
-img5.png
-img6.png
-img7.png
-img8.png
-img9.png
-img10.png
+![Screenshot 1](img1.png)  
+![Screenshot 2](img2.png)  
+![Screenshot 3](img3.png)  
+![Screenshot 4](img4.png)  
+![Screenshot 5](img5.png)  
+![Screenshot 6](img6.png)  
+![Screenshot 7](img7.png)  
+![Screenshot 8](img8.png)  
+![Screenshot 9](img9.png)  
+![Screenshot 10](img10.png)  
 
 
 
