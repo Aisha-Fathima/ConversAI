@@ -41,7 +41,7 @@ Make sure you have the following installed:
 
 
 
-## A Glance at the Website
+# A Glance at the Website
 
 
 
