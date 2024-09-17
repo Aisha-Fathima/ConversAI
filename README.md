@@ -47,7 +47,21 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+ Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+
+** A Glance at the Website **
+img1.png
+img2.png
+img3.png
+img4.png
+img5.png
+img6.png
+img7.png
+img8.png
+img9.png
+img10.png
+
 
 
 
