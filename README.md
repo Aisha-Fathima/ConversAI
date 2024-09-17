@@ -51,11 +51,13 @@ npm run dev
 
 ```
 **A Glance at the Website**
+
+
 ![Screenshot 1](img1.png)  
 ![Screenshot 2](img2.png)  
 ![Screenshot 3](img3.png)  
 ![Screenshot 4](img4.png)  
-![Screenshot 5](img5.png)  
+
 ![Screenshot 6](img6.png)  
 ![Screenshot 7](img7.png)  
 ![Screenshot 8](img8.png)  
