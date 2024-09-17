@@ -30,7 +30,7 @@ Ensures seamless functionality and aesthetics across all devices.
 ## 📋 Getting Started
 To view the project locally on your machine, follow these steps:
 
-Prerequisites
+## Prerequisites
 Make sure you have the following installed:
 
 - [Git](https://git-scm.com/)
@@ -38,12 +38,7 @@ Make sure you have the following installed:
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
 
-
-
-
 # A Glance at the Website
-
-
 
 
 ![Screenshot 2](img2.png)  
