@@ -60,7 +60,7 @@ npm run dev
 ## A Glance at the Website
 
 
-![Screenshot 1](img1.png) 
+
 
 ![Screenshot 2](img2.png)  
 
