@@ -2,6 +2,25 @@
 
 ConversAI is a showcase of modern UI/UX design principles, developed using React.js and Tailwind CSS. This project highlights sleek design, seamless animations, and an overall user experience that sets a high standard for future modern applications and websites.
 
+
+# A Glance at the Website
+
+
+![Screenshot 2](img2.png)  
+
+![Screenshot 3](img3.png)  
+
+![Screenshot 4](img4.png)  
+
+![Screenshot 6](img6.png)  
+
+![Screenshot 7](img7.png)  
+
+![Screenshot 8](img8.png)  
+
+![Screenshot 9](img9.png)  
+
+
 # 🚀 Project Overview
 ConversAI serves as an inspirational example of contemporary design. It features:
 
@@ -36,25 +55,6 @@ Make sure you have the following installed:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
-
-
-# A Glance at the Website
-
-
-![Screenshot 2](img2.png)  
-
-![Screenshot 3](img3.png)  
-
-![Screenshot 4](img4.png)  
-
-![Screenshot 6](img6.png)  
-
-![Screenshot 7](img7.png)  
-
-![Screenshot 8](img8.png)  
-
-![Screenshot 9](img9.png)  
-
 
 
 
