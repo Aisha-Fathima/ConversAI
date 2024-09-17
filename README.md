@@ -5,17 +5,17 @@ ConversAI is a showcase of modern UI/UX design principles, developed using React
 # 🚀 Project Overview
 ConversAI serves as an inspirational example of contemporary design. It features:
 
-## Beautiful Sections: 
+### Beautiful Sections: 
 Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
-## Parallax Animations:
+### Parallax Animations:
 Engaging effects triggered by mouse movement and scrolling.
-## Complex UI Geometry: 
+### Complex UI Geometry: 
 Uses Tailwind CSS for intricate shapes such as circular feature displays, grid lines, and side lines.
-## Latest UI Trends: 
+### Latest UI Trends: 
 Incorporates modern design elements like bento grids.
-## Cool Gradients: 
+### Cool Gradients: 
 Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, and more.
-##Responsive Design: 
+### Responsive Design: 
 Ensures seamless functionality and aesthetics across all devices.
 
 
